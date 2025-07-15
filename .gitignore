@@ -1,6 +1,10 @@
 # --- Python & Django ----------------
 __pycache__/
 *.py[code]
+*.Python
+*.__pycache__
+*.pyd
+
 
 #Virtual-envs
 
